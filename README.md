@@ -1,2 +1,0 @@
-# PlayingWithProps
-Created with CodeSandbox
